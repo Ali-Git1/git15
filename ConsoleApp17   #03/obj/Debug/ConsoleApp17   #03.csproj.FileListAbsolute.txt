@@ -1,0 +1,7 @@
+C:\Users\ELViN\source\repos\ConsoleApp17   #03\ConsoleApp17   #03\bin\Debug\ConsoleApp17   #03.exe.config
+C:\Users\ELViN\source\repos\ConsoleApp17   #03\ConsoleApp17   #03\bin\Debug\ConsoleApp17   #03.exe
+C:\Users\ELViN\source\repos\ConsoleApp17   #03\ConsoleApp17   #03\bin\Debug\ConsoleApp17   #03.pdb
+C:\Users\ELViN\source\repos\ConsoleApp17   #03\ConsoleApp17   #03\obj\Debug\ConsoleApp17   #03.csproj.AssemblyReference.cache
+C:\Users\ELViN\source\repos\ConsoleApp17   #03\ConsoleApp17   #03\obj\Debug\ConsoleApp17   #03.csproj.CoreCompileInputs.cache
+C:\Users\ELViN\source\repos\ConsoleApp17   #03\ConsoleApp17   #03\obj\Debug\ConsoleApp17   #03.exe
+C:\Users\ELViN\source\repos\ConsoleApp17   #03\ConsoleApp17   #03\obj\Debug\ConsoleApp17   #03.pdb
